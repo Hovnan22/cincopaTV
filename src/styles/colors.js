@@ -1,0 +1,12 @@
+export const mainBlue = '#2599DB';
+export const darkBlue = '#2f649a';
+export const blue = '#336ca6';
+export const borderBlue = '#2b5a8b';
+export const transparent = '#00000050';
+export const White = "#ffffff";
+export const Black = '#000000';
+export const Gray = '#B2BEC3';
+export const DarkGray = '#1f2125';
+export const TextGray = '#878a90';
+export const transparentBlack = 'rgba(0,0,0,.125)';
+export const semiTransparentBlack = '#00000050';
